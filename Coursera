@@ -1,9 +1,0 @@
-Hi friend, thank you for visiting my site. For now, it is only to use for coursera learning, so it shouldn't be too interesting.
-As a bonus, I will teach you how to cook mashed potatoes:
-- First step: have potatoes
-- Second step: mash' em
-```
-Import the pandas library as pd.
-Import the Numpy library as np.
-print("Hello Capstone Project Course!")
-```
